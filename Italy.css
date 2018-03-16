@@ -43,16 +43,17 @@ h2{
     background-repeat: no-repeat;
     background-size: cover;
 }
-p{
-  height:1000px;
-  font-size:20px;
+article {
+  text-align: center
+  display: block;
+  font-family: 'Josefin Slab', serif;
+  margin-left:50px;
+  margin-right:50px;
+  margin-top: 50px;
+font-family: 'Josefin Slab', serif;
+font-size: 25px;
 }
-.wrapper{
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  overflow: hidden;
-}
-.venicePic{
-  width: 200px;
-  height: 200px;
+.collage{
+  max-width: 99%;
+  max-height: 99%;
 }
