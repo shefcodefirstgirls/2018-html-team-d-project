@@ -37,8 +37,17 @@ h2{
     background-repeat: no-repeat;
     background-size: cover;
 }
-p{
-  height:1000px;
-  background-color:lightgrey;
-  font-size:36px;
+}
+article {
+  text-align: center
+  display: block;
+  margin-left:50px;
+  margin-right:50px;
+  margin-top: 50px;
+font-family: 'Josefin Slab', serif;
+font-size: 25px;
+}
+.collage{
+  max-width: 99%;
+  max-height: 99%;
 }
