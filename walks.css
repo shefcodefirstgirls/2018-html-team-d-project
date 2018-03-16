@@ -17,10 +17,8 @@ p{
   grid-template-columns: 1fr 1fr 1fr 1fr;
   overflow: hidden;
 }
-
 .sidebar{
     list-style-type: none;
-    margin: 0px;
     overflow: hidden;
     background-color: white;
     font-family: 'Lato', sans-serif;

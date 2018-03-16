@@ -1,3 +1,9 @@
+h1{
+  font-family: 'Raleway', sans-serif;
+}
+h3{
+  font-family: 'Raleway', sans-serif;
+}
 h2{
   font-family: 'Pacifico', cursive;
   text-align: center;
@@ -39,6 +45,14 @@ h2{
 }
 p{
   height:1000px;
-  background-color:lightgrey;
-  font-size:36px;
+  font-size:20px;
+}
+.wrapper{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  overflow: hidden;
+}
+.venicePic{
+  width: 200px;
+  height: 200px;
 }
