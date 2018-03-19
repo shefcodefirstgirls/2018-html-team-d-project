@@ -9,20 +9,22 @@ h2{
   background-color: white;
 }
 #navbar {
-    background-color: #333;
+    background-color: lightgrey;
     padding: 5px;
     width: 100%;
     transition: top 0.3s;
+    padding-left: 200px;
+    font-style: bold;
 }
 
 #navbar a {
-    float: center;
-    font-family: 'Lato', sans-serif;
-    display: inline;
-    color: white;
-    padding: 5px 20px 5px 20px;
-    text-decoration: none;
-    background-color: #333;
+  float: center;
+  font-family: 'Raleway', sans-serif;
+  display: inline;
+  color: #8c8c8c;
+  padding: 8px 20px 8px 20px;
+  text-decoration: none;
+  background-color: lightgrey;
 }
 #navbar a:hover {
     background-color: #ddd;
@@ -36,7 +38,6 @@ h2{
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
-}
 }
 article {
   text-align: center

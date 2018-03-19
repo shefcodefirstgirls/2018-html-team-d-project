@@ -5,7 +5,7 @@ img{
 h1{
   font-family: 'Josefin Slab', serif;
   text-align: center;
-  margin: 80px 40px 40px 50px;
+  margin: 120px 40px 40px 50px;
   font-size: 40px;
 }
 .block{
@@ -16,7 +16,6 @@ h1{
   background: blue;
   opacity: 0.9;
 }
-
 p{
   font-family: 'Lato', sans-serif;
 }
@@ -43,6 +42,7 @@ li a {
 li a:hover{
     background-color: lightgrey;
     color: white;
+    text-decoration: none;
 }
 img:hover{
   image-resolution: snap;
