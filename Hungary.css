@@ -15,7 +15,7 @@ h2{
   background-color: white;
 }
 #navbar {
-    background-color: transition;
+    background-color: lightgrey;
     padding: 5px;
     width: 100%;
     transition: top 0.3s;
