@@ -13,6 +13,7 @@ h2{
     padding: 5px;
     width: 100%;
     transition: top 0.3s;
+    padding-left: 200px;
 }
 
 #navbar a {
