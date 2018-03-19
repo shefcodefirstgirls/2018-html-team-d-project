@@ -1,3 +1,8 @@
+h1{
+  font-family: 'Raleway', sans-serif;
+}
+h3{
+  font-family: 'Raleway', sans-serif;
 h2{
   font-family: 'Pacifico', cursive;
   text-align: center;
@@ -20,7 +25,7 @@ h2{
   float: center;
   font-family: 'Lato', sans-serif;
   display: inline;
-  color: white;
+  color: #8c8c8c;
   padding: 5px 20px 5px 20px;
   text-decoration: none;
   background-color: #333;
